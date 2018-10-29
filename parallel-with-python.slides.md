@@ -242,4 +242,6 @@ Distributed computing refers to the act of distributing work among different phy
 
 Many modern abstractions which give us distributed computing also allow for parellelization on one computer.
 
+Queues are also very important elements of distributed computing!
+
 ---
